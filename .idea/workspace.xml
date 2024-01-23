@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53887af8-c35b-4ac4-b87e-7659fc1ce120" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/Friday assign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/advert table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/black goose style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/blackgoose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/follow style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/follow us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/follow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/fruit list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/language style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/languages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/HTML  logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/blackgoose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/ig.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/laptop 1.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/laptop 3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/laptop 4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/pascal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/pinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Friday assign/pictures/web.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Friday assign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Friday assign/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +71,7 @@
       <workItem from="1705643179948" duration="7493000" />
       <workItem from="1705827508042" duration="5144000" />
       <workItem from="1705899480423" duration="4702000" />
-      <workItem from="1705986184998" duration="383000" />
+      <workItem from="1705986184998" duration="1542000" />
     </task>
     <servers />
   </component>
